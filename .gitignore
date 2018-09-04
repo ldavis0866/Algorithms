@@ -1,3 +1,5 @@
 .vscode/
 *.pyc
 __pycache__
+stock_prices_dev.py
+making_change_dev.py
